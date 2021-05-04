@@ -1,0 +1,11 @@
+*.d2s
+*.d2x
+*.key
+*.ma0
+*.ma1
+*.ma2
+*.ma3
+*.map
+*.bak
+backup/
+*.d2s
