@@ -1,3 +1,5 @@
+**THE SHARED STASH FILE IS NOWHERE NEAR COMPLETE YET! THERE IS NO POINT IN DOWNLOADING UNTIL IT'S COMPLETE!**
+
 # LoD PlugY Stash
  A full fledged PlugY stash for Diablo II LoD. Contains everything you need for testing!
 
