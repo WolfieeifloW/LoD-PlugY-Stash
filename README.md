@@ -5,7 +5,7 @@
 
 # Progress
 
-14 / 188, 7.4% complete.
+16 / 188, 8.51% complete.
 
 | Stash Page | Item                      | Done? |
 | ---------- | ------------------------- | ----- |
