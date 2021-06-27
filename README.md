@@ -5,7 +5,7 @@
 
 # Progress
 
-16 / 188, 10.11% complete.
+16 / 188, 10.64% complete.
 
 | Stash Page | Item                      | Done? |
 | ---------- | ------------------------- | ----- |
@@ -139,7 +139,7 @@
 | 1356       | Unique Circlets           | ✔    |
 | 1366       | Unique Jewels             | ✔    |
 | 1376       | Unique Rings              | ✔    |
-| 1386       | Unique Amazon             |       |
+| 1386       | Unique Amazon             | ✔    |
 | 1396       | Unique Assassin           |       |
 | 1406       | Unique Barbarian          |       |
 | 1416       | Unique Druid              |       |
