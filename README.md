@@ -5,7 +5,7 @@
 
 # Progress
 
-16 / 188, 8.51% complete.
+16 / 188, 9.57% complete.
 
 | Stash Page | Item                      | Done? |
 | ---------- | ------------------------- | ----- |
@@ -135,9 +135,9 @@
 | 1316       | Base Swords               |       |
 | 1326       | Base Wands                |       |
 | 1336       | Unique Amulets            | ✔    |
-| 1346       | Unique Charms             |       |
+| 1346       | Unique Charms             | ✔    |
 | 1356       | Unique Circlets           |       |
-| 1366       | Unique Jewels             |       |
+| 1366       | Unique Jewels             | ✔    |
 | 1376       | Unique Rings              | ✔    |
 | 1386       | Unique Amazon             |       |
 | 1396       | Unique Assassin           |       |
