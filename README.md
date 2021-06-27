@@ -5,7 +5,7 @@
 
 # Progress
 
-16 / 188, 11.17% complete.
+16 / 188, 11.7% complete.
 
 | Stash Page | Item                      | Done? |
 | ---------- | ------------------------- | ----- |
@@ -141,7 +141,7 @@
 | 1376       | Unique Rings              | ✔    |
 | 1386       | Unique Amazon             | ✔    |
 | 1396       | Unique Assassin           | ✔    |
-| 1406       | Unique Barbarian          |       |
+| 1406       | Unique Barbarian          | ✔    |
 | 1416       | Unique Druid              |       |
 | 1426       | Unique Necromancer        |       |
 | 1436       | Unique Paladin            |       |
