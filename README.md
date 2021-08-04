@@ -5,7 +5,7 @@
 
 # Progress
 
-28 / 188, 14.89% complete.
+29 / 188, 15.43% complete.
 
 | Stash Page | Item                      | Done? |
 | ---------- | ------------------------- | ----- |
@@ -148,7 +148,7 @@
 | 1446       | Unique Sorceress          | ✔    |
 | 1456       | Unique Armor              | ✔    |
 | 1466       | Unique Belts              | ✔    |
-| 1476       | Unique Boots              |       |
+| 1476       | Unique Boots              | ✔    |
 | 1486       | Unique Gloves             |       |
 | 1496       | Unique Helms              |       |
 | 1506       | Unique Shields            |       |
