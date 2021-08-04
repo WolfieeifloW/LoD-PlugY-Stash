@@ -5,7 +5,7 @@
 
 # Progress
 
-16 / 188, 14.36% complete.
+28 / 188, 14.89% complete.
 
 | Stash Page | Item                      | Done? |
 | ---------- | ------------------------- | ----- |
@@ -147,7 +147,7 @@
 | 1436       | Unique Paladin            | ✔    |
 | 1446       | Unique Sorceress          | ✔    |
 | 1456       | Unique Armor              | ✔    |
-| 1466       | Unique Belts              |       |
+| 1466       | Unique Belts              | ✔    |
 | 1476       | Unique Boots              |       |
 | 1486       | Unique Gloves             |       |
 | 1496       | Unique Helms              |       |
