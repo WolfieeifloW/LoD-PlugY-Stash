@@ -5,7 +5,7 @@
 
 # Progress
 
-29 / 188, 15.43% complete.
+30 / 188, 15.96% complete.
 
 | Stash Page | Item                      | Done? |
 | ---------- | ------------------------- | ----- |
@@ -149,7 +149,7 @@
 | 1456       | Unique Armor              | ✔    |
 | 1466       | Unique Belts              | ✔    |
 | 1476       | Unique Boots              | ✔    |
-| 1486       | Unique Gloves             |       |
+| 1486       | Unique Gloves             | ✔    |
 | 1496       | Unique Helms              |       |
 | 1506       | Unique Shields            |       |
 | 1516       | Unique Axes               |       |
