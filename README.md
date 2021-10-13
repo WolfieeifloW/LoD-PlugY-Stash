@@ -3,6 +3,11 @@
 # LoD PlugY Stash
  A full fledged PlugY stash for Diablo II LoD. Contains everything you need for testing!
 
+# Donations
+Donation link: [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=9JARHKMQ9UU3S&item_name=Project+Diablo+2+Loot+Filter&currency_code=CAD)  
+Donations are not required in any way but I very much appreciate all who support me in this fashion!  
+If you wish you can get the "Donator" role in my [Discord](https://github.com/WolfieeifloW/pd2filter#discord) as well!
+
 # Progress
 
 31 / 188, 16.49% complete.
