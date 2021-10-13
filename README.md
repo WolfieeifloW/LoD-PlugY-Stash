@@ -10,7 +10,7 @@ If you wish you can get the "Donator" role in my [Discord](https://github.com/Wo
 
 # Progress
 
-30 / 165, 18.18% complete.
+31 / 165, 18.79% complete.
 
 | Stash Page | Item                      | Done? |
 | ---------- | ------------------------- | ----- |
@@ -157,7 +157,7 @@ If you wish you can get the "Donator" role in my [Discord](https://github.com/Wo
 | 1486       | Unique Gloves             | ✔    |
 | 1496       | Unique Helms              | ✔    |
 | 1506       | Unique Shields            | ✔    |
-| 1516       | Unique Axes               |       |
+| 1516       | Unique Axes               | ✔    |
 | 1526       | Unique Bows               |       |
 | 1536       | Unique Crossbows          |       |
 | 1546       | Unique Daggers            |       |
