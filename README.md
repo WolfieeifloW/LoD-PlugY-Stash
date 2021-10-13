@@ -10,7 +10,7 @@ If you wish you can get the "Donator" role in my [Discord](https://github.com/Wo
 
 # Progress
 
-40 / 165, 24.24% complete.
+41 / 165, 24.85% complete.
 
 | Stash Page | Item                      | Done? |
 | ---------- | ------------------------- | ----- |
@@ -167,7 +167,7 @@ If you wish you can get the "Donator" role in my [Discord](https://github.com/Wo
 | 1586       | Unique Scepters           | ✔    |
 | 1596       | Unique Spears             | ✔    |
 | 1606       | Unique Staves             | ✔    |
-| 1616       | Unique Swords             |       |
+| 1616       | Unique Swords             | ✔    |
 | 1626       | Unique Throwing Weapons   |       |
 | 1636       | Unique Wands              |       |
 | 1646       | Angelic Raiment           |       |
