@@ -10,7 +10,7 @@ If you wish you can get the "Donator" role in my [Discord](https://github.com/Wo
 
 # Progress
 
-38 / 165, 23.03% complete.
+39 / 165, 23.64% complete.
 
 | Stash Page | Item                      | Done? |
 | ---------- | ------------------------- | ----- |
@@ -165,7 +165,7 @@ If you wish you can get the "Donator" role in my [Discord](https://github.com/Wo
 | 1566       | Unique Maces              | ✔    |
 | 1576       | Unique Polearms           | ✔    |
 | 1586       | Unique Scepters           | ✔    |
-| 1596       | Unique Spears             |       |
+| 1596       | Unique Spears             | ✔    |
 | 1606       | Unique Staves             |       |
 | 1616       | Unique Swords             |       |
 | 1626       | Unique Throwing Weapons   |       |
