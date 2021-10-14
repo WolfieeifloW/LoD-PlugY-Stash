@@ -10,7 +10,7 @@ If you wish you can get the "Donator" role in my [Discord](https://github.com/Wo
 
 # Progress
 
-59 / 165, 35.76% complete.
+75 / 165, 45.45% complete.
 
 | Stash Page | Item                      | Done? |
 | ---------- | ------------------------- | ----- |
@@ -186,19 +186,19 @@ If you wish you can get the "Donator" role in my [Discord](https://github.com/Wo
 | 1776       | Sigon's Complete Steel    | ✔    |
 | 1786       | Tancred's Battlegear      | ✔    |
 | 1796       | Vidala's Rig              | ✔    |
-| 1806       | Aldur's Watchtower        |       |
-| 1816       | Bul-Kathos' Children      |       |
-| 1826       | Cow King's Leathers       |       |
-| 1836       | The Disciple              |       |
-| 1846       | Griswold's Legacy         |       |
-| 1856       | Heaven's Brethren         |       |
-| 1866       | Hwanin's Majesty          |       |
-| 1876       | Immortal King             |       |
-| 1886       | M'avina's Battle Hymn     |       |
-| 1896       | Natalya's Odium           |       |
-| 1906       | Naj's Ancient Vestige     |       |
-| 1916       | Orphan's Call             |       |
-| 1926       | Sander's Folly            |       |
-| 1936       | Sazabi's Grand Tribute    |       |
-| 1946       | Tal Rasha's Wrappings     |       |
-| 1956       | Trang-Oul's Avatar        |       |
+| 1806       | Aldur's Watchtower        | ✔    |
+| 1816       | Bul-Kathos' Children      | ✔    |
+| 1826       | Cow King's Leathers       | ✔    |
+| 1836       | The Disciple              | ✔    |
+| 1846       | Griswold's Legacy         | ✔    |
+| 1856       | Heaven's Brethren         | ✔    |
+| 1866       | Hwanin's Majesty          | ✔    |
+| 1876       | Immortal King             | ✔    |
+| 1886       | M'avina's Battle Hymn     | ✔    |
+| 1896       | Natalya's Odium           | ✔    |
+| 1906       | Naj's Ancient Vestige     | ✔    |
+| 1916       | Orphan's Call             | ✔    |
+| 1926       | Sander's Folly            | ✔    |
+| 1936       | Sazabi's Grand Tribute    | ✔    |
+| 1946       | Tal Rasha's Wrappings     | ✔    |
+| 1956       | Trang-Oul's Avatar        | ✔    |
