@@ -10,7 +10,7 @@ If you wish you can get the "Donator" role in my [Discord](https://github.com/Wo
 
 # Progress
 
-41 / 165, 24.85% complete.
+43 / 165, 26.06% complete.
 
 | Stash Page | Item                      | Done? |
 | ---------- | ------------------------- | ----- |
@@ -168,8 +168,8 @@ If you wish you can get the "Donator" role in my [Discord](https://github.com/Wo
 | 1596       | Unique Spears             | ✔    |
 | 1606       | Unique Staves             | ✔    |
 | 1616       | Unique Swords             | ✔    |
-| 1626       | Unique Throwing Weapons   |       |
-| 1636       | Unique Wands              |       |
+| 1626       | Unique Throwing Weapons   | ✔    |
+| 1636       | Unique Wands              | ✔    |
 | 1646       | Angelic Raiment           |       |
 | 1656       | Arcanna's Tricks          |       |
 | 1666       | Arctic Gear               |       |
