@@ -10,7 +10,7 @@ If you wish you can get the "Donator" role in my [Discord](https://github.com/Wo
 
 # Progress
 
-46 / 165, 27.88% complete.
+59 / 165, 35.76% complete.
 
 | Stash Page | Item                      | Done? |
 | ---------- | ------------------------- | ----- |
@@ -173,19 +173,19 @@ If you wish you can get the "Donator" role in my [Discord](https://github.com/Wo
 | 1646       | Angelic Raiment           | ✔    |
 | 1656       | Arcanna's Tricks          | ✔    |
 | 1666       | Arctic Gear               | ✔    |
-| 1676       | Berserker's Arsenal       |       |
-| 1686       | Cathan's Traps            |       |
-| 1696       | Civerb's Vestments        |       |
-| 1706       | Cleglaw's Brace           |       |
-| 1716       | Death's Disguise          |       |
-| 1726       | Hsarus' Defense           |       |
-| 1736       | Infernal Tools            |       |
-| 1746       | Iratha's Finery           |       |
-| 1756       | Isenhart's Armory         |       |
-| 1766       | Milabrega's Regalia       |       |
-| 1776       | Sigon's Complete Steel    |       |
-| 1786       | Tancred's Battlegear      |       |
-| 1796       | Vidala's Rig              |       |
+| 1676       | Berserker's Arsenal       | ✔    |
+| 1686       | Cathan's Traps            | ✔    |
+| 1696       | Civerb's Vestments        | ✔    |
+| 1706       | Cleglaw's Brace           | ✔    |
+| 1716       | Death's Disguise          | ✔    |
+| 1726       | Hsarus' Defense           | ✔    |
+| 1736       | Infernal Tools            | ✔    |
+| 1746       | Iratha's Finery           | ✔    |
+| 1756       | Isenhart's Armory         | ✔    |
+| 1766       | Milabrega's Regalia       | ✔    |
+| 1776       | Sigon's Complete Steel    | ✔    |
+| 1786       | Tancred's Battlegear      | ✔    |
+| 1796       | Vidala's Rig              | ✔    |
 | 1806       | Aldur's Watchtower        |       |
 | 1816       | Bul-Kathos' Children      |       |
 | 1826       | Cow King's Leathers       |       |
