@@ -10,7 +10,7 @@ If you wish you can get the "Donator" role in my [Discord](https://github.com/Wo
 
 # Progress
 
-43 / 165, 26.06% complete.
+46 / 165, 27.88% complete.
 
 | Stash Page | Item                      | Done? |
 | ---------- | ------------------------- | ----- |
@@ -170,9 +170,9 @@ If you wish you can get the "Donator" role in my [Discord](https://github.com/Wo
 | 1616       | Unique Swords             | ✔    |
 | 1626       | Unique Throwing Weapons   | ✔    |
 | 1636       | Unique Wands              | ✔    |
-| 1646       | Angelic Raiment           |       |
-| 1656       | Arcanna's Tricks          |       |
-| 1666       | Arctic Gear               |       |
+| 1646       | Angelic Raiment           | ✔    |
+| 1656       | Arcanna's Tricks          | ✔    |
+| 1666       | Arctic Gear               | ✔    |
 | 1676       | Berserker's Arsenal       |       |
 | 1686       | Cathan's Traps            |       |
 | 1696       | Civerb's Vestments        |       |
