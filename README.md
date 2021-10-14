@@ -1,7 +1,7 @@
 # LoD PlugY Stash
 A full fledged PlugY stash for Diablo II LoD. Contains everything you need for testing!  
 Looking for an LoD filter to test the stash? Check it out [HERE](https://github.com/WolfieeifloW/lodfilter)!  
-Looking for my PD2 filters? Check it out [HERE](https://github.com/WolfieeifloW/pd2filter)!
+Looking for my PD2 filters? Check them out [HERE](https://github.com/WolfieeifloW/pd2filter)!
 
 **The Shared Stash only contains Essences, Tokens, Keys, Orgs, Runes, Gems, Rejuvs, some starting Crafting items, some starting Base items, & all Uniques & Sets.**  
 I will continue to add stuff to try and fully finish the stash. Please let me know of any errors in item stats or any stats that are not perfect.
