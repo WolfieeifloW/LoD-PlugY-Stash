@@ -22,10 +22,10 @@ Discord link: [WolfieeifloW's Diablo II Projects](https://discord.gg/6bM8AtYGAq)
 | Stash Page | Item                      | Done? |
 | ---------- | ------------------------- | ----- |
 | 1          | Dump                      | ✔    |
-| 30         | Essences & Tokens         | ✔    |
-| 35         | Keys & Orgs               | ✔    |
-| 41         | Runes                     | ✔    |
-| 74         | Gems                      | ✔    |
+| 30         | Runes                     | ✔    |
+| 63         | Gems                      | ✔    |
+| 71         | Essences & Tokens         | ✔    |
+| 76         | Keys & Orgs               | ✔    |
 | 82         | Rejuvs                    | ✔    |
 | 100        | Crafting Jewels           | ✔    |
 | 110        | Crafting Amulets          | ✔    |
@@ -34,178 +34,178 @@ Discord link: [WolfieeifloW's Diablo II Projects](https://discord.gg/6bM8AtYGAq)
 | 125        | Crafting Large Charms     | ✔    |
 | 130        | Crafting Small Charms     | ✔    |
 | 135        | Crafting Amazon           | ✔    |
-| 138        | Crafting Assassin         | ✔    |
-| 141        | Crafting Barbarian        |       |
-| 144        | Crafting Druid            |       |
-| 147        | Crafting Necromancer      |       |
-| 150        | Crafting Paladin          |       |
-| 153        | Crafting Sorceress        |       |
-| 156        | Crafting Armor            |       |
-| 166        | Crafting Belts            |       |
-| 176        | Crafting Boots            |       |
-| 186        | Crafting Gloves           |       |
-| 196        | Crafting Helms            |       |
-| 206        | Crafting Shields          |       |
-| 216        | Crafting Axes             |       |
-| 226        | Crafting Bows             |       |
-| 236        | Crafting Crossbows        |       |
-| 246        | Crafting Daggers          |       |
-| 256        | Crafting Javelins         |       |
-| 266        | Crafting Maces            |       |
-| 276        | Crafting Polearms         |       |
-| 286        | Crafting Scepters         |       |
-| 296        | Crafting Spears           |       |
-| 306        | Crafting Staves           |       |
-| 316        | Crafting Swords           |       |
-| 326        | Crafting Throwing Weapons |       |
-| 336        | Crafting Wands            |       |
-| 346        | Magic Amulets             |       |
-| 356        | Magic Grand Charms        |       |
-| 406        | Magic Large Charms        |       |
-| 456        | Magic Small Charms        |       |
-| 506        | Magic Circlets            |       |
-| 516        | Magic Jewels              |       |
-| 526        | Magic Rings               |       |
-| 536        | Magic Amazon              |       |
-| 546        | Magic Assassin            |       |
-| 556        | Magic Barbarian           |       |
-| 566        | Magic Druid               |       |
-| 576        | Magic Necromancer         |       |
-| 586        | Magic Paladin             |       |
-| 596        | Magic Sorceress           |       |
-| 606        | Magic Armor               |       |
-| 616        | Magic Belts               |       |
-| 626        | Magic Boots               |       |
-| 636        | Magic Gloves              |       |
-| 646        | Magic Helms               |       |
-| 656        | Magic Shields             |       |
-| 666        | Magic Axes                |       |
-| 676        | Magic Bows                |       |
-| 686        | Magic Crossbows           |       |
-| 696        | Magic Daggers             |       |
-| 706        | Magic Javelins            |       |
-| 716        | Magic Maces               |       |
-| 726        | Magic Polearms            |       |
-| 736        | Magic Scepters            |       |
-| 746        | Magic Spears              |       |
-| 756        | Magic Staves              |       |
-| 766        | Magic Swords              |       |
-| 776        | Magic Throwing Weapons    |       |
-| 786        | Magic Wands               |       |
-| 796        | Rare Amulets              |       |
-| 806        | Rare Circlets             |       |
-| 816        | Rare Jewels               |       |
-| 826        | Rare Rings                |       |
-| 836        | Rare Amazon               |       |
-| 846        | Rare Assassin             |       |
-| 856        | Rare Barbarian            |       |
-| 866        | Rare Druid                |       |
-| 876        | Rare Necromancer          |       |
-| 886        | Rare Paladin              |       |
-| 896        | Rare Sorceress            |       |
-| 906        | Rare Armor                |       |
-| 916        | Rare Belts                |       |
-| 926        | Rare Boots                |       |
-| 936        | Rare Gloves               |       |
-| 946        | Rare Helms                |       |
-| 956        | Rare Shields              |       |
-| 966        | Rare Axes                 |       |
-| 976        | Rare Bows                 |       |
-| 986        | Rare Crossbows            |       |
-| 996        | Rare Daggers              |       |
-| 1006       | Rare Javelins             |       |
-| 1016       | Rare Maces                |       |
-| 1026       | Rare Polearms             |       |
-| 1036       | Rare Scepters             |       |
-| 1046       | Rare Spears               |       |
-| 1056       | Rare Staves               |       |
-| 1066       | Rare Swords               |       |
-| 1076       | Rare Throwing Weapons     |       |
-| 1086       | Rare Wands                |       |
-| 1096       | Base Circlets             |       |
-| 1106       | Base Amazon               |       |
-| 1116       | Base Assassin             |       |
-| 1126       | Base Barbarian            |       |
-| 1136       | Base Druid                |       |
-| 1146       | Base Necromancer          |       |
-| 1156       | Base Paladin              |       |
-| 1166       | Base Sorceress            |       |
-| 1176       | Base Armor                |       |
-| 1186       | Base Helms                |       |
-| 1196       | Base Shields              |       |
-| 1206       | Base Axes                 |       |
-| 1216       | Base Bows                 |       |
-| 1226       | Base Crossbows            |       |
-| 1236       | Base Daggers              |       |
-| 1246       | Base Clubs                |       |
-| 1256       | Base Hammers              |       |
-| 1266       | Base Maces                |       |
-| 1276       | Base Polearms             |       |
-| 1286       | Base Scepters             |       |
-| 1296       | Base Spears               |       |
-| 1306       | Base Staves               |       |
-| 1316       | Base Swords               |       |
-| 1326       | Base Wands                |       |
-| 1336       | Unique Amulets            | ✔    |
-| 1346       | Unique Charms             | ✔    |
-| 1356       | Unique Circlets           | ✔    |
-| 1366       | Unique Jewels             | ✔    |
-| 1376       | Unique Rings              | ✔    |
-| 1386       | Unique Amazon             | ✔    |
-| 1396       | Unique Assassin           | ✔    |
-| 1406       | Unique Barbarian          | ✔    |
-| 1416       | Unique Druid              | ✔    |
-| 1426       | Unique Necromancer        | ✔    |
-| 1436       | Unique Paladin            | ✔    |
-| 1446       | Unique Sorceress          | ✔    |
-| 1456       | Unique Armor              | ✔    |
-| 1466       | Unique Belts              | ✔    |
-| 1476       | Unique Boots              | ✔    |
-| 1486       | Unique Gloves             | ✔    |
-| 1496       | Unique Helms              | ✔    |
-| 1506       | Unique Shields            | ✔    |
-| 1516       | Unique Axes               | ✔    |
-| 1526       | Unique Bows               | ✔    |
-| 1536       | Unique Crossbows          | ✔    |
-| 1546       | Unique Daggers            | ✔    |
-| 1556       | Unique Javelins           | ✔    |
-| 1566       | Unique Maces              | ✔    |
-| 1576       | Unique Polearms           | ✔    |
-| 1586       | Unique Scepters           | ✔    |
-| 1596       | Unique Spears             | ✔    |
-| 1606       | Unique Staves             | ✔    |
-| 1616       | Unique Swords             | ✔    |
-| 1626       | Unique Throwing Weapons   | ✔    |
-| 1636       | Unique Wands              | ✔    |
-| 1646       | Angelic Raiment           | ✔    |
-| 1656       | Arcanna's Tricks          | ✔    |
-| 1666       | Arctic Gear               | ✔    |
-| 1676       | Berserker's Arsenal       | ✔    |
-| 1686       | Cathan's Traps            | ✔    |
-| 1696       | Civerb's Vestments        | ✔    |
-| 1706       | Cleglaw's Brace           | ✔    |
-| 1716       | Death's Disguise          | ✔    |
-| 1726       | Hsarus' Defense           | ✔    |
-| 1736       | Infernal Tools            | ✔    |
-| 1746       | Iratha's Finery           | ✔    |
-| 1756       | Isenhart's Armory         | ✔    |
-| 1766       | Milabrega's Regalia       | ✔    |
-| 1776       | Sigon's Complete Steel    | ✔    |
-| 1786       | Tancred's Battlegear      | ✔    |
-| 1796       | Vidala's Rig              | ✔    |
-| 1806       | Aldur's Watchtower        | ✔    |
-| 1816       | Bul-Kathos' Children      | ✔    |
-| 1826       | Cow King's Leathers       | ✔    |
-| 1836       | The Disciple              | ✔    |
-| 1846       | Griswold's Legacy         | ✔    |
-| 1856       | Heaven's Brethren         | ✔    |
-| 1866       | Hwanin's Majesty          | ✔    |
-| 1876       | Immortal King             | ✔    |
-| 1886       | M'avina's Battle Hymn     | ✔    |
-| 1896       | Natalya's Odium           | ✔    |
-| 1906       | Naj's Ancient Vestige     | ✔    |
-| 1916       | Orphan's Call             | ✔    |
-| 1926       | Sander's Folly            | ✔    |
-| 1936       | Sazabi's Grand Tribute    | ✔    |
-| 1946       | Tal Rasha's Wrappings     | ✔    |
-| 1956       | Trang-Oul's Avatar        | ✔    |
+| 147        | Crafting Assassin         | ✔    |
+| 168        | Crafting Barbarian        |       |
+| ???        | Crafting Druid            |       |
+| ???        | Crafting Necromancer      |       |
+| ???        | Crafting Paladin          |       |
+| ???        | Crafting Sorceress        |       |
+| ???        | Crafting Armor            |       |
+| ???        | Crafting Belts            |       |
+| ???        | Crafting Boots            |       |
+| ???        | Crafting Gloves           |       |
+| ???        | Crafting Helms            |       |
+| ???        | Crafting Shields          |       |
+| ???        | Crafting Axes             |       |
+| ???        | Crafting Bows             |       |
+| ???        | Crafting Crossbows        |       |
+| ???        | Crafting Daggers          |       |
+| ???        | Crafting Javelins         |       |
+| ???        | Crafting Maces            |       |
+| ???        | Crafting Polearms         |       |
+| ???        | Crafting Scepters         |       |
+| ???        | Crafting Spears           |       |
+| ???        | Crafting Staves           |       |
+| ???        | Crafting Swords           |       |
+| ???        | Crafting Throwing Weapons |       |
+| ???        | Crafting Wands            |       |
+| ???        | Magic Jewels              |       |
+| ???        | Magic Amulets             |       |
+| ???        | Magic Rings               |       |
+| ???        | Magic Circlets            |       |
+| 625        | Magic Grand Charms        |       |
+| ???        | Magic Large Charms        |       |
+| ???        | Magic Small Charms        |       |
+| ???        | Magic Amazon              |       |
+| ???        | Magic Assassin            |       |
+| ???        | Magic Barbarian           |       |
+| ???        | Magic Druid               |       |
+| ???        | Magic Necromancer         |       |
+| ???        | Magic Paladin             |       |
+| ???        | Magic Sorceress           |       |
+| ???        | Magic Armor               |       |
+| ???        | Magic Belts               |       |
+| ???        | Magic Boots               |       |
+| ???        | Magic Gloves              |       |
+| ???        | Magic Helms               |       |
+| ???        | Magic Shields             |       |
+| ???        | Magic Axes                |       |
+| ???        | Magic Bows                |       |
+| ???        | Magic Crossbows           |       |
+| ???        | Magic Daggers             |       |
+| ???        | Magic Javelins            |       |
+| ???        | Magic Maces               |       |
+| ???        | Magic Polearms            |       |
+| ???        | Magic Scepters            |       |
+| ???        | Magic Spears              |       |
+| ???        | Magic Staves              |       |
+| ???        | Magic Swords              |       |
+| ???        | Magic Throwing Weapons    |       |
+| ???        | Magic Wands               |       |
+| ???        | Rare Amulets              |       |
+| ???        | Rare Circlets             |       |
+| ???        | Rare Jewels               |       |
+| ???        | Rare Rings                |       |
+| ???        | Rare Amazon               |       |
+| ???        | Rare Assassin             |       |
+| ???        | Rare Barbarian            |       |
+| ???        | Rare Druid                |       |
+| ???        | Rare Necromancer          |       |
+| ???        | Rare Paladin              |       |
+| ???        | Rare Sorceress            |       |
+| ???        | Rare Armor                |       |
+| ???        | Rare Belts                |       |
+| ???        | Rare Boots                |       |
+| ???        | Rare Gloves               |       |
+| ???        | Rare Helms                |       |
+| ???        | Rare Shields              |       |
+| ???        | Rare Axes                 |       |
+| ???        | Rare Bows                 |       |
+| ???        | Rare Crossbows            |       |
+| ???        | Rare Daggers              |       |
+| ???        | Rare Javelins             |       |
+| ???        | Rare Maces                |       |
+| ???        | Rare Polearms             |       |
+| ???        | Rare Scepters             |       |
+| ???        | Rare Spears               |       |
+| ???        | Rare Staves               |       |
+| ???        | Rare Swords               |       |
+| ???        | Rare Throwing Weapons     |       |
+| ???        | Rare Wands                |       |
+| ???        | Base Circlets             |       |
+| ???        | Base Amazon               |       |
+| ???        | Base Assassin             |       |
+| ???        | Base Barbarian            |       |
+| ???        | Base Druid                |       |
+| ???        | Base Necromancer          |       |
+| ???        | Base Paladin              |       |
+| ???        | Base Sorceress            |       |
+| ???        | Base Armor                |       |
+| ???        | Base Helms                |       |
+| ???        | Base Shields              |       |
+| ???        | Base Axes                 |       |
+| ???        | Base Bows                 |       |
+| ???        | Base Crossbows            |       |
+| ???        | Base Daggers              |       |
+| ???        | Base Clubs                |       |
+| ???        | Base Hammers              |       |
+| ???        | Base Maces                |       |
+| ???        | Base Polearms             |       |
+| ???        | Base Scepters             |       |
+| ???        | Base Spears               |       |
+| ???        | Base Staves               |       |
+| ???        | Base Swords               |       |
+| ???        | Base Wands                |       |
+| 655        | Unique Amulets            | ✔    |
+| 656        | Unique Rings              | ✔    |
+| 657        | Unique Charms             | ✔    |
+| 658        | Unique Jewels             | ✔    |
+| 659        | Unique Circlets           | ✔    |
+| 660        | Unique Amazon             | ✔    |
+| 664        | Unique Assassin           | ✔    |
+| 667        | Unique Barbarian          | ✔    |
+| 669        | Unique Druid              | ✔    |
+| 671        | Unique Necromancer        | ✔    |
+| 673        | Unique Paladin            | ✔    |
+| 676        | Unique Sorceress          | ✔    |
+| 678        | Unique Armor              | ✔    |
+| 706        | Unique Belts              | ✔    |
+| 709        | Unique Boots              | ✔    |
+| 715        | Unique Gloves             | ✔    |
+| 722        | Unique Helms              | ✔    |
+| 734        | Unique Shields            | ✔    |
+| 749        | Unique Axes               | ✔    |
+| 768        | Unique Bows               | ✔    |
+| 776        | Unique Crossbows          | ✔    |
+| 780        | Unique Daggers            | ✔    |
+| 786        | Unique Javelins           | ✔    |
+| 788        | Unique Maces              | ✔    |
+| 806        | Unique Polearms           | ✔    |
+| 822        | Unique Scepters           | ✔    |
+| 828        | Unique Spears             | ✔    |
+| 841        | Unique Staves             | ✔    |
+| 853        | Unique Swords             | ✔    |
+| 882        | Unique Throwing Weapons   | ✔    |
+| 885        | Unique Wands              | ✔    |
+| 890        | Angelic Raiment           | ✔    |
+| 891        | Arcanna's Tricks          | ✔    |
+| 892        | Arctic Gear               | ✔    |
+| 893        | Berserker's Arsenal       | ✔    |
+| 894        | Cathan's Traps            | ✔    |
+| 895        | Civerb's Vestments        | ✔    |
+| 896        | Cleglaw's Brace           | ✔    |
+| 897        | Death's Disguise          | ✔    |
+| 898        | Hsarus' Defense           | ✔    |
+| 899        | Infernal Tools            | ✔    |
+| 900        | Iratha's Finery           | ✔    |
+| 901        | Isenhart's Armory         | ✔    |
+| 902        | Milabrega's Regalia       | ✔    |
+| 903        | Sigon's Complete Steel    | ✔    |
+| 904        | Tancred's Battlegear      | ✔    |
+| 905        | Vidala's Rig              | ✔    |
+| 906        | Aldur's Watchtower        | ✔    |
+| 907        | Bul-Kathos' Children      | ✔    |
+| 908        | Cow King's Leathers       | ✔    |
+| 909        | The Disciple              | ✔    |
+| 910        | Griswold's Legacy         | ✔    |
+| 911        | Heaven's Brethren         | ✔    |
+| 912        | Hwanin's Majesty          | ✔    |
+| 913        | Immortal King             | ✔    |
+| 914        | M'avina's Battle Hymn     | ✔    |
+| 915        | Natalya's Odium           | ✔    |
+| 916        | Naj's Ancient Vestige     | ✔    |
+| 917        | Orphan's Call             | ✔    |
+| 918        | Sander's Folly            | ✔    |
+| 919        | Sazabi's Grand Tribute    | ✔    |
+| 920        | Tal Rasha's Wrappings     | ✔    |
+| 921        | Trang-Oul's Avatar        | ✔    |
