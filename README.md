@@ -84,7 +84,7 @@ Discord link: [WolfieeifloW's Diablo II Projects](https://discord.gg/6bM8AtYGAq)
 | 646        | Magic GCs Skiller Cold    | ✔    |
 | 647        | Magic GCs Skiller Light   | ✔    |
 | 648        | Magic GCs Skiller Fire    | ✔    |
-| 649        | Magic Small Charms        |       |
+| 649        | Magic Small Charms        | ✔    |
 | ???        | Magic Amazon              |       |
 | ???        | Magic Assassin            |       |
 | ???        | Magic Barbarian           |       |
