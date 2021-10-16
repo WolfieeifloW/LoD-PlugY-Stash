@@ -3,9 +3,6 @@ A full fledged PlugY stash for Diablo II LoD. Contains everything you need for t
 Looking for an LoD filter to test the stash? Check it out [HERE](https://github.com/WolfieeifloW/lodfilter)!  
 Looking for my PD2 filters? Check them out [HERE](https://github.com/WolfieeifloW/pd2filter)!
 
-**The Shared Stash only contains Essences, Tokens, Keys, Orgs, Runes, Gems, Rejuvs, some starting Crafting items, some starting Base items, & all Uniques & Sets.**  
-I will continue to add stuff to try and fully finish the stash. Please let me know of any errors in item stats or any stats that are not perfect.
-
 # Donations
 Donation link: [PayPal](https://www.paypal.com/donate?business=9JARHKMQ9UU3S&no_recurring=0&item_name=LoD+PlugY+Stash&currency_code=CAD)  
 Donations are not required in any way but I very much appreciate all who support me in this fashion!  
@@ -63,9 +60,31 @@ Discord link: [WolfieeifloW's Diablo II Projects](https://discord.gg/6bM8AtYGAq)
 | ???        | Magic Amulets             |       |
 | ???        | Magic Rings               |       |
 | ???        | Magic Circlets            |       |
-| 625        | Magic Grand Charms        |       |
-| ???        | Magic Large Charms        |       |
-| ???        | Magic Small Charms        |       |
+| 625        | Magic GCs Damage          | ✔    |
+| 626        | Magic GCs Magic Find      | ✔    |
+| 627        | Magic GCs Resists         | ✔    |
+| 628        | Magic GCs Skiller Javelin | ✔    |
+| 629        | Magic GCs Skiller Passive | ✔    |
+| 630        | Magic GCs Skiller Bow     | ✔    |
+| 631        | Magic GCs Skiller Martial | ✔    |
+| 632        | Magic GCs Skiller Disc    | ✔    |
+| 633        | Magic GCs Skiller Traps   | ✔    |
+| 634        | Magic GCs Skiller Warcry  | ✔    |
+| 635        | Magic GCs Skiller Mastery | ✔    |
+| 636        | Magic GCs Skiller BCombat | ✔    |
+| 637        | Magic GCs Skiller Ele     | ✔    |
+| 638        | Magic GCs Skiller SS      | ✔    |
+| 639        | Magic GCs Skiller DSumm   | ✔    |
+| 640        | Magic GCs Skiller Curses  | ✔    |
+| 641        | Magic GCs Skiller PnB     | ✔    |
+| 642        | Magic GCs Skiller NSumm   | ✔    |
+| 643        | Magic GCs Skiller DefAura | ✔    |
+| 644        | Magic GCs Skiller OffAura | ✔    |
+| 645        | Magic GCs Skiller PComb   | ✔    |
+| 646        | Magic GCs Skiller Cold    | ✔    |
+| 647        | Magic GCs Skiller Light   | ✔    |
+| 648        | Magic GCs Skiller Fire    | ✔    |
+| 649        | Magic Small Charms        |       |
 | ???        | Magic Amazon              |       |
 | ???        | Magic Assassin            |       |
 | ???        | Magic Barbarian           |       |
