@@ -14,7 +14,7 @@ Discord link: [WolfieeifloW's Diablo II Projects](https://discord.gg/6bM8AtYGAq)
 
 # Progress
 
-75 / 165, 45.45% complete.
+101 / 210, 48.10% complete.
 
 | Stash Page | Item                      | Done? |
 | ---------- | ------------------------- | ----- |
